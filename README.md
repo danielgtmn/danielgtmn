@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Developing Software**
 
-- 👨‍💻 All of my projects are available at [https://gietmanic.de/porfolio](https://gietmanic.de/porfolio)
+- 👨‍💻 All of my projects are available at [https://gietmanic.de/porfolio](https://gietmanic.de/portfolio)
 
 - 📝 I regularly write articles on [https://gietmanic.de/blog](https://gietmanic.de/blog)
 
