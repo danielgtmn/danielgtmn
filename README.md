@@ -4,7 +4,7 @@
 
 **Full-Stack Developer | Next.js Enthusiast | Cloud Architecture**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielgietmann)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielgtmn)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
@@ -50,11 +50,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielgietmann&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danielgietmann&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielgietmann&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+[![GitHub Streak](https://streak-stats.demolab.com?user=danielgtmn&theme=dark)](https://git.io/streak-stats)
 
 </div>
 
@@ -62,33 +58,33 @@
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=danielgietmann&theme=tokyonight&no-frame=true&row=1&column=6)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=danielgtmn&theme=tokyonight&no-frame=true&row=1&column=6)
 
 </div>
 
 ## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=danielgietmann&theme=tokyo-night&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=danielgtmn&theme=tokyo-night&hide_border=true)
 
 ## 🤝 Let's Connect
 
 I'm always interested in collaborating on exciting projects and learning from fellow developers. Feel free to reach out!
 
-- 💼 **LinkedIn**: [Daniel Gietmann](https://linkedin.com/in/danielgietmann)
-- 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)
+- 💼 **LinkedIn**: [Daniel Gietmann](https://linkedin.com/in/danielgtmn)
+- 📧 **Email**: [hello@gietmaic.com](mailto:hello@gietmanic.com)
 - 🌐 **Portfolio**: [Coming Soon](#)
 
 ## ☕ Support My Work
 
 If you find my projects helpful, consider buying me a coffee!
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/danielgietmann)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/danielgtmn)
 
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=danielgietmann&color=blueviolet&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=danielgtmn&color=blueviolet&style=flat-square&label=Profile+Views)
 
 **Thanks for visiting! ⭐ Star some repositories if you find them interesting!**
 
