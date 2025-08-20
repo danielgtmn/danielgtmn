@@ -71,8 +71,8 @@
 I'm always interested in collaborating on exciting projects and learning from fellow developers. Feel free to reach out!
 
 - 💼 **LinkedIn**: [Daniel Gietmann](https://linkedin.com/in/danielgtmn)
-- 📧 **Email**: [hello@gietmaic.com](mailto:hello@gietmanic.com)
-- 🌐 **Portfolio**: [Coming Soon](#)
+- 📧 **Email**: [hello@danielgtmn.com](mailto:danielgtmn.com)
+- 🌐 **Portfolio**: [danielgtmn.com](https://danielgtmn.com)
 
 ## ☕ Support My Work
 
